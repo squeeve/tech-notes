@@ -1,0 +1,7 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: a neko's notes plz
+author: squeeve @ github.com
+description: notes of things neko wants learn and make ka mo shiran
+google_analytics: G-9R6MQJ1JS3
