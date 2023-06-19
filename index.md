@@ -1,5 +1,3 @@
----
-title: a title page
----
+# Upcoming thingy
 
-omg tired; gonna work on this later...
+Oh hey, this is just a regular markdown page
